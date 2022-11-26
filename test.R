@@ -1,9 +1,6 @@
 get_yesterday <- function() {
-  z <- Sys.Date() - 1
-  return(x)
+  hg <- Sys.Date() - 1
+  return(hg)
 }
-
-
-gitcreds::gitcreds_set()
 
 
